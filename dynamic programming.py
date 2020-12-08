@@ -12,3 +12,6 @@ for i in range(2, x+1):
     if i % 5 == 0:
         d[i] = min(d[i], d[i // 5] + 1)
 print(d[x])
+
+
+def mergesort(s):

@@ -9,6 +9,6 @@ def solution(N, stages):
             result[stage] = count / stages_len
             stages_len -= count
         else:
-            result[stage] = 0
+            result[stage] = 0   
     return sorted(result, key=lambda x: result[x], reverse=True)
 
