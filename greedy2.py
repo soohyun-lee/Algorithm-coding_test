@@ -12,5 +12,3 @@ for x, y in people_list:
         max_l = y
         cnt += 1     
 print(cnt)
-
-
