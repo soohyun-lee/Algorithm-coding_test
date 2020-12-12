@@ -39,3 +39,4 @@ for x in a:
         break
 else:
     print('yes')
+
