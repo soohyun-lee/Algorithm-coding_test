@@ -16,3 +16,4 @@ for i in range(cnt):
             print('YES')
         else:
             print('NO')
+
