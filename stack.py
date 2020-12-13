@@ -12,3 +12,4 @@ if m != 0:
 
 res=''.join(map(str, stack))
 print(res)
+
